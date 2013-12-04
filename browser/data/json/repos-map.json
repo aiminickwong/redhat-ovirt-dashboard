@@ -1,0 +1,140 @@
+{
+"gerrit-admin":{
+    "scm":"gerrit-admin",
+    "scr":"gerrit.ovirt.org_gerrit-admin"
+    },
+"infra-docs":{
+    "scm":"infra-docs",
+    "scr":"gerrit.ovirt.org_infra-docs"
+    },
+"infra-puppet":{
+    "scm":"infra-puppet",
+    "scr":"gerrit.ovirt.org_infra-puppet"
+    },
+"jasperreports-server-rpm":{
+    "scm":"jasperreports-server-rpm",
+    "scr":"gerrit.ovirt.org_jasperreports-server-rpm"
+    },
+"jenkins":{
+    "scm":"jenkins",
+    "scr":"gerrit.ovirt.org_jenkins"
+    },
+"jenkins-whitelist":{
+    "scm":"jenkins-whitelist",
+    "scr":"gerrit.ovirt.org_jenkins-whitelist"
+    },
+"mom":{
+    "scm":"mom",
+    "scr":"gerrit.ovirt.org_otopi"
+    },
+"ovirt-docs":{
+    "scm":"ovirt-docs",
+    "scr":"gerrit.ovirt.org_ovirt-docs"
+    },
+"ovirt-dwh":{
+    "scm":"ovirt-dwh",
+    "scr":"gerrit.ovirt.org_ovirt-dwh"
+    },
+"ovirt-engine":{
+    "scm":"ovirt-engine",
+    "scr":"gerrit.ovirt.org_ovirt-engine"
+    },
+"ovirt-engine-cli":{
+    "scm":"ovirt-engine-cli",
+    "scr":"gerrit.ovirt.org_ovirt-engine-cli"
+    },
+"ovirt-engine-sdk":{
+    "scm":"ovirt-engine-sdk",
+    "scr":"gerrit.ovirt.org_ovirt-engine-sdk-java"
+    },
+"ovirt-engine-sdk-ruby":{
+    "scm":"ovirt-engine-sdk-ruby",
+    "scr":"gerrit.ovirt.org_ovirt-engine-sdk-ruby"
+    },
+"ovirt-engine-sdk-tests":{
+    "scm":"ovirt-engine-sdk-tests",
+    "scr":"gerrit.ovirt.org_ovirt-engine-sdk-tests"
+    },
+"ovirt-guest-agent":{
+    "scm":"ovirt-guest-agent",
+    "scr":"gerrit.ovirt.org_ovirt-guest-agent"
+    },
+"ovirt-host-deploy":{
+    "scm":"ovirt-host-deploy",
+    "scr":"gerrit.ovirt.org_ovirt-host-deploy"
+    },
+"ovirt-hosted-engine-ha":{
+    "scm":"ovirt-hosted-engine-ha",
+    "scr":"gerrit.ovirt.org_ovirt-hosted-engine-ha"
+    },
+"ovirt-hosted-engine-setup":{
+    "scm":"ovirt-hosted-engine-setup",
+    "scr":"gerrit.ovirt.org_ovirt-hosted-engine-setup"
+    },
+"ovirt-image-uploader":{
+    "scm":"ovirt-image-uploader",
+    "scr":"gerrit.ovirt.org_ovirt-image-uploader"
+    },
+"ovirt-iso-uploader":{
+    "scm":"ovirt-iso-uploader",
+    "scr":"gerrit.ovirt.org_ovirt-iso-uploader"
+    },
+"ovirt-live":{
+    "scm":"ovirt-live",
+    "scr":"gerrit.ovirt.org_ovirt-live"
+    },
+"ovirt-log-collector":{
+    "scm":"ovirt-log-collector",
+    "scr":"gerrit.ovirt.org_ovirt-log-collector"
+    },
+"ovirt-node":{
+    "scm":"ovirt-node",
+    "scr":"gerrit.ovirt.org_ovirt-node"
+    },
+"ovirt-node-iso":{
+    "scm":"ovirt-node-iso",
+    "scr":"gerrit.ovirt.org_ovirt-node-iso"
+    },
+"ovirt-node-plugin-vdsm":{
+    "scm":"ovirt-node-plugin-vdsm",
+    "scr":"gerrit.ovirt.org_ovirt-node-plugin-vdsm"
+    },
+"ovirt-node-tests":{
+    "scm":"ovirt-node-tests",
+    "scr":"gerrit.ovirt.org_ovirt-node-tests"
+    },
+"ovirt-release":{
+    "scm":"ovirt-release",
+    "scr":"gerrit.ovirt.org_ovirt-release"
+    },
+"ovirt-reports":{
+    "scm":"ovirt-reports",
+    "scr":"gerrit.ovirt.org_ovirt-reports"
+    },
+"ovirt-scheduler-proxy":{
+    "scm":"ovirt-scheduler-proxy",
+    "scr":"gerrit.ovirt.org_ovirt-scheduler-proxy"
+    },
+"ovirt-vdsmfake":{
+    "scm":"ovirt-vdsmfake",
+    "scr":"gerrit.ovirt.org_samples-portals"
+    },
+"samples-portals":{
+    "scm":"samples-portals",
+    "scr":"gerrit.ovirt.org_samples-portals"
+    },
+"samples-uiplugins":{
+    "scm":"samples-uiplugins",
+    "scr":"gerrit.ovirt.org_samples-uiplugins"
+    },
+"test":{
+    "scm":"test",
+    "scr":"gerrit.ovirt.org_test"
+    },
+"vdsm":{
+    "scm":"vdsm",
+    "scr":"gerrit.ovirt.org_vdsm"
+    }
+}
+
+
