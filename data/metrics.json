@@ -320,6 +320,13 @@
             "divid": "scr_openers",
             "name": "Openers"
         },
+        "scr_submitters": {
+            "action": "opened",
+            "column": "submitters",
+            "desc": "Number of persons submiting review processes",
+            "divid": "scr_submitters",
+            "name": "Submitters"
+        },
         "scr_people": {
             "column": "people",
             "desc": "Number of persons active in code review activities",
