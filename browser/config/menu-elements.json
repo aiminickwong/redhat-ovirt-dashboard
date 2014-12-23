@@ -24,11 +24,6 @@
 	],
 	"scr": [
             "repos"
-	],
-	"extra1": [
-	    ["Link 1", "http://bitergia.com"],
-	    ["Link 2", "https://twitter.com/bitergia"],
-	    ["Link 2", "https://twitter.com/flossmetrics"]
 	]
     },
     "releases":[]
